@@ -1,0 +1,5 @@
+<nav class="menu">
+  {{ range site.Menus.main }}
+  <a class="menu-item{{ if $.IsMenuCurrent "main" . }} active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+  {{ end }}
+</nav>

@@ -1,0 +1,30 @@
+baseURL = "https://example.org/"
+languageCode = "nb-NO"
+defaultContentLanguage = "nb"
+title = "Strinda Karate"
+theme = "strinda"
+
+[params]
+  logo = "img/strinda-white.png"
+
+[menus]
+  [[menus.main]]
+    name = "Hva skjer"
+    pageRef = "/hva-skjer"
+    weight = 10
+  [[menus.main]]
+    name = "Praktisk"
+    pageRef = "/praktisk"
+    weight = 20
+  [[menus.main]]
+    name = "Priser"
+    pageRef = "/priser"
+    weight = 30
+  [[menus.main]]
+    name = "Bli medlem"
+    pageRef = "/bli-medlem"
+    weight = 40
+  [[menus.main]]
+    name = "Trenere"
+    pageRef = "/trenere"
+    weight = 60

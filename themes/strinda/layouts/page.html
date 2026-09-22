@@ -1,0 +1,10 @@
+{{ define "main" }}
+<header class="site-header">
+  <a class="site-logo" href="{{ "/" | relURL }}"><img src="{{ site.Params.logo | relURL }}" alt="{{ site.Title }}"></a>
+  {{ partial "menu.html" . }}
+</header>
+<main class="content">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+</main>
+{{ end }}
