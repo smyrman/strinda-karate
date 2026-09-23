@@ -46,7 +46,7 @@ Relevant linker for å finne flere happenings:
 | :--- | :--- | :--- | :--- |
 | Juni | NTKF | Tønsberg | [Sommerleir][ntkf-kalender] (info kommer) |
 
-## Aktuelle stevner (konkurranser) vår 2026
+## Aktuelle stevner (konkurranser) vår 2027
 
 | Dato | Arrangør | Sted | Arrangement |
 | :--- | :--- | :--- | :--- |
