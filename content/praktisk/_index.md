@@ -3,7 +3,7 @@ title: "Praktisk"
 aliases: ["/treningstider/", "/utstyr/"]
 ---
 
-## Treningstider
+## Treningstider høst 2026
 
 | Dag | Tid | Beskrivelse |
 | --- | --- | --- |
