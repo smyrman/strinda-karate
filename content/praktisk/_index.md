@@ -18,11 +18,18 @@ Gi kan bestilles via klubbens utstyrsansvarlig, Stig Andreas Mastad. Vi gjør va
 
 **Neste frist for bestilling er 1. oktober 2026.** Ta kontakt via Spond eller SMS. Betaling via Vipps.
 
-## Kommunikasjon
+## Kommunikasjon og plattformer
 
-Vi bruken en [Messanger] tråd for kommunikasjon rundt voksen-treningene. Ta kontakt med noen i gruppen for å bli invitert inn.
+Medlemskap og kontingent administreres via [MinIdrett]. Faktura og fakturapåminnelser foregår via e-post. Sjekk SPAM, og sett gjerne opp et filter for prioritert e-post.
 
-For barne- og undomspartiet, og for kommunikasjon med foresatte, benytter vi [Spond]. Be barne-trenere (Tatiana eller Sindre) om grupper-kode.
+Vi bruker en [Messenger]-tråd for kommunikasjon rundt voksen-treningene. Ta kontakt med noen i gruppen for å bli invitert inn.
 
-[Messanger]: https://www.messenger.com/
+Vi benytter [Spond] for kommunikasjon med foresatte på barne- og ungdomspartiet. Be barnetrenerne (Tatiana eller Sindre) om gruppekode.
+
+Noe promotering gjøres på [Facebook] og [Instagram].
+
+[MinIdrett]: https://www.minidrett.no/
+[Messenger]: https://www.messenger.com/
 [Spond]: https://www.spond.com/no/
+[Facebook]: https://www.facebook.com/StrindaKarateKlubb/
+[Instagram]: https://www.instagram.com/strindakarate/

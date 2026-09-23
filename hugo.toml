@@ -1,8 +1,9 @@
 baseURL = "https://smyrman.github.io/strinda-karate/"
-languageCode = "nb-NO"
+locale = "nb-NO"
 defaultContentLanguage = "nb"
 title = "Strinda Karate"
 theme = "strinda"
+disableKinds = ["taxonomy", "term"]
 
 [params]
   logo = "img/strinda-white.png"

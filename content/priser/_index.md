@@ -2,19 +2,21 @@
 title: "Priser"
 ---
 
-Prser gjelder fra høsten 2026.
+Prisene gjelder fra høsten 2026.
 
-## Per kalenderår
+## Årlige utgifter
 
 | Avgift | Pris |
 | --- | --- |
-| Medlemskap, klubb | 100,- |
-| Medlemskap NTKF, + graderingsavgift | 150,- |
+| Medlemskap klubb | 100,- |
+| Medlemskap NTKF + graderingsavgift | 250,- |
 
-## Per semester
+## Utgifter per semester
 
 | Avgift | Pris |
 | --- | --- |
 | Treningsavgift | 750,- |
 
-Betaling skjer via faktura på epost. Husk å sjekk SPAM!.
+Betaling skjer via faktura som sendes på e-post. Husk å sjekke SPAM! Evt. kan dere finne ubetalte fakturaer direkte på [MinIdrett].
+
+[MinIdrett]: https://www.minidrett.no/
