@@ -3,6 +3,12 @@ title: "Praktisk"
 aliases: ["/treningstider/", "/utstyr/"]
 ---
 
+Strinda Karate Klubb trener Shotokan Karate, og er en del av [NTKF]. Vi trener på Strindheim Skole (Bromstadvegen 1, 7044 Trondheim). Inngang ved administrasjonen. Pass på presis oppmøte, da døren går i lås!
+
+{{< map lat="63.4342500" lon="10.4556000" title="Strindheim skole" >}}
+
+[NTKF]: https://www.ntkf.no/
+
 ## Treningstider høst 2026
 
 | Dag | Tid | Beskrivelse |

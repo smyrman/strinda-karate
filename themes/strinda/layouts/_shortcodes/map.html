@@ -1,0 +1,16 @@
+{{- $lat := .Get "lat" | float -}}
+{{- $lon := .Get "lon" | float -}}
+{{- $d := 0.004 -}}
+{{- $bbox := printf "%f,%f,%f,%f" (sub $lon $d) (sub $lat (div $d 2)) (add $lon $d) (add $lat (div $d 2)) -}}
+<figure class="map">
+  <div class="map-frame" tabindex="0" aria-label="Kart: {{ .Get "title" }}. Klikk for å bruke kartet.">
+    <iframe
+      src="https://www.openstreetmap.org/export/embed.html?bbox={{ $bbox }}&layer=mapnik&marker={{ $lat }},{{ $lon }}"
+      title="Kart: {{ .Get "title" }}"
+      loading="lazy"></iframe>
+    <span class="map-hint" aria-hidden="true">Klikk for å bruke kartet</span>
+  </div>
+  <figcaption>
+    <a href="https://www.openstreetmap.org/?mlat={{ $lat }}&mlon={{ $lon }}#map=17/{{ $lat }}/{{ $lon }}">Åpne større kart</a>
+  </figcaption>
+</figure>
