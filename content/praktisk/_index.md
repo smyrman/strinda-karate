@@ -20,15 +20,20 @@ Strinda Karate Klubb trener Shotokan Karate, og er en del av [NTKF]. Vi trener p
 
 ## Utstyr
 
-Gi kan bestilles via klubbens utstyrsansvarlig, Stig Andreas Mastad. Vi gjør vanligvis én bestilling i semesteret. Klubben kjøper inn belter til kyu-graderinger.
+Gi og annet utstyr fra [jkabutikken.no][jka-butikken] kan bestilles via klubbens utstyrsansvarlig, Stig Andreas Mastad. Vi gjør vanligvis én bestilling i semesteret. Størrelse oppgis i hovedsak som høyde i cm. For barn kan det være en god idé å runde av litt oppover.
+
+Belter til kyu-graderinger (farget belter) kan kjøpes på gradering, og trenges ikke eksplisitt å bestilles. Brukte belter i god stand kan doneres til klubben om dere ønsker det.
 
 **Neste frist for bestilling er 1. oktober 2026.** Ta kontakt via Spond eller SMS. Betaling via Vipps.
+
+[jka-butikken]: https://www.jkabutikken.no/
+
 
 ## Kommunikasjon og plattformer
 
 Medlemskap og kontingent administreres via [MinIdrett]. Faktura og fakturapåminnelser foregår via e-post. Sjekk SPAM, og sett gjerne opp et filter for prioritert e-post.
 
-Vi bruker en [Messenger]-tråd for kommunikasjon rundt voksen-treningene. Ta kontakt med noen i gruppen for å bli invitert inn.
+Vi bruker en [Messenger]-gruppe for kommunikasjon rundt voksen-treningene. Ta kontakt med noen i gruppen for å bli invitert inn.
 
 Vi benytter [Spond] for kommunikasjon med foresatte på barne- og ungdomspartiet. Be barnetrenerne (Tatiana eller Sindre) om gruppekode.
 
