@@ -2,11 +2,9 @@
 title: "Hva skjer"
 ---
 
-# Høst 2026
+Her er noe av det som skjer i karateverden 2026/2027.
 
-Her er noe av det som skjer i karateverden fremover.
-
-## Treningssamlinger
+## Treningssamlinger høst 2026
 
 | Dato | Arrangør| Sted | Arrangement |
 | :--- |:---|:--- | :--- |
@@ -32,7 +30,7 @@ Relevant linker for å finne flere happenings:
 
 [jka-terminliste]: https://jkanorway.no/jka/terminliste-2026/
 
-## Aktuelle stevner (konkurranser)
+## Aktuelle stevner (konkurranser) høst 2026
 
 | Dato | Arrangør | Sted | Arrangement |
 | :--- | :--- | :--- | :--- |
@@ -42,15 +40,13 @@ Relevant linker for å finne flere happenings:
 | 25. oktober 2026 | JKA Norway | Østlandet | [JKA Cup Øst][jka-terminliste] |
 | 7. november 2026 | Nordås | Zinken Hopp Idrettshall, Bergen | [7. JKA Nasjonalt Mesterskap][jka-terminliste] |
 
-# Vår 2027
-
-## Aktuelle treningssamlinger
+## Aktuelle treningssamlinger vår 2027
 
 | Dato | Arrangør | Sted | Arrangement |
 | :--- | :--- | :--- | :--- |
 | Juni | NTKF | Tønsberg | [Sommerleir][ntkf-kalender] (info kommer) |
 
-## Aktuelle stevner (konkurranser)
+## Aktuelle stevner (konkurranser) vår 2026
 
 | Dato | Arrangør | Sted | Arrangement |
 | :--- | :--- | :--- | :--- |
