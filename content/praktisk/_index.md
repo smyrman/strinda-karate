@@ -31,7 +31,7 @@ Belter til kyu-graderinger (farget belter) kan kjøpes på gradering, og trenges
 
 ## Kommunikasjon og plattformer
 
-Medlemskap og kontingent administreres via [MinIdrett]. Faktura og fakturapåminnelser foregår via e-post. Sjekk SPAM, og sett gjerne opp et filter for prioritert e-post.
+Medlemskap og kontingent administreres via [MinIdrett]. Faktura og fakturapåminnelser sendes via e-post. Sjekk SPAM, og sett gjerne opp et filter for prioritert e-post.
 
 Vi bruker en [Messenger]-gruppe for kommunikasjon rundt voksen-treningene. Ta kontakt med noen i gruppen for å bli invitert inn.
 
