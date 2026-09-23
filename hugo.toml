@@ -22,10 +22,10 @@ disableKinds = ["taxonomy", "term"]
     pageRef = "/priser"
     weight = 30
   [[menus.main]]
-    name = "Bli medlem"
-    pageRef = "/bli-medlem"
-    weight = 40
-  [[menus.main]]
     name = "Trenere"
     pageRef = "/trenere"
+    weight = 40
+  [[menus.main]]
+    name = "Bli medlem"
+    pageRef = "/bli-medlem"
     weight = 60
